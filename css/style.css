@@ -143,3 +143,12 @@
 .btn:hover{
   transform: scale(0.9);
 }
+.btn2{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-left: 35px;
+}
