@@ -152,3 +152,16 @@
   color: var(--text-color);
   margin-left: 35px;
 }
+.btn2 span i{
+  height: 55px;
+  width: 55px;
+  background: var(--main-color);
+  color: var(--text-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 35px;
+  border-radius: 50%;
+  margin-right: 15px;
+  transition: all .4;
+}
