@@ -276,3 +276,18 @@ color: var(--text-color);
 transform: translateY(-8px);
 cursor: pointer;
 }
+.contact-container{
+  text-align: center;
+}
+.contact-box{
+  background-color: var(--second-bg-color);
+  height: auto;
+  width: auto;
+}
+.write{
+  background-color: #333333;
+  border-radius: 8px;
+}
+.contact-footer{
+  display: inline-block;
+}
